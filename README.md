@@ -1,1 +1,1 @@
-# java-design-pattern study
+# java-design-pattern
