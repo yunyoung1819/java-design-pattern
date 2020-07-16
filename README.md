@@ -1,3 +1,3 @@
 # java-design-pattern
 
-## 자바 디자인패턴 스터디
+## Java 디자인패턴 스터디
